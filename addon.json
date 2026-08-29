@@ -1,0 +1,7 @@
+{
+    "title": "Random Asylum Music",
+    "type": "ServerContent",
+    "tags": [ "fun" ],
+    "description": "Adds background music to Random Asylum rounds",
+    "ignore": [ "*.psd", "*.svn*", "*.git", "*.md", "LICENSE" ]
+}
